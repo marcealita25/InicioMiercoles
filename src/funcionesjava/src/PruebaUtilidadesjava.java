@@ -1,4 +1,4 @@
-package funcionesjava.src;
+
 
 import org.omg.Messaging.SyncScopeHelper;
 
@@ -18,18 +18,9 @@ public class PruebaUtilidadesjava {
 
 
         String [] opcionesMenu = {"1.- opcion 1", "2. opcion 2"};
-        
+        Utilidadesjava.pintaMenu(opcionesMenu);
 
 	       
     }
-
-    
-		
-
-	   
-	
-	   
-
-
 
 }

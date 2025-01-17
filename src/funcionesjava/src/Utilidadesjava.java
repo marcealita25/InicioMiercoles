@@ -1,4 +1,4 @@
-package funcionesjava.src;
+
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class Utilidadesjava {
 	 return numero;
 	 
 	 }
-	public static String pideDatoCadena(int texto) {
+	public static String pideDatoCadena(String texto) {
 		
 		System.out.println(texto);
 		
