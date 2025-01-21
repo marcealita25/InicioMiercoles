@@ -28,7 +28,22 @@ public class Utilidadesjava {
 		return cadena;
 	}
 	 
-     public static void pintaMenu(String[] menuArray) {
+    public static void pintaMenu(String[] menuStr) {
+
+        String opcion : menuStr.split.("")){
+
+            System.out.println(opcion);
+        }
+        System.out.println("Introduce una opcion");
+        
+    
+    
+    
+    
+    
+    
+    
+    public static void pintaMenu(String[] menuArray) {
 
         for (String opcion : menuArray){
 
