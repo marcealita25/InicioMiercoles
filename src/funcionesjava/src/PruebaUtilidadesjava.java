@@ -2,7 +2,7 @@
 
 import org.omg.Messaging.SyncScopeHelper;
 
-public class PruebaUtilidadesjava {
+public class PruebaUtilidadesjava {  
 	
 	public static void main(String[] args) {
 		
