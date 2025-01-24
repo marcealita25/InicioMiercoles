@@ -2,6 +2,9 @@ package Poo.src;
 
 public class ClaseInstituto {
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
 
         Alumno alumno1 = new Alumno("N1", "A1", 20, "eggdg@hgffgfh.es", 8.5);
@@ -20,7 +23,7 @@ public class ClaseInstituto {
         alumno4.setnombre("N4");
         alumno4.setApellido("A4");
         alumno4.setEdad(20);
-        alumno4.setEmai("hgdfgh@jhgfdhjgfg.es");
+        alumno4.setEmail("hgdfgh@jhgfdhjgfg.es");
         alumno4.setNotaMedia(8,5);
         alumno4.setAsignaturas(new String []{"Fisica","Quimica"});
         Alumno [] alumno = {alumno1,alumno2,alumno3,alumno4};
